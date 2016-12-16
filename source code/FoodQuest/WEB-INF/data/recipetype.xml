@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe_type>
+
+		<category>
+			<name>VEG</name>
+			<description>enjoy vegetarian food</description>
+			<image_secure_url>https://res.cloudinary.com/di2fxuii1/image/upload/v1480492577/kbwhq0brmdsqfpqcewn7.jpg</image_secure_url>
+			<image_url>http://res.cloudinary.com/di2fxuii1/image/upload/v1480492577/kbwhq0brmdsqfpqcewn7.jpg</image_url>
+			<image_public_id>kbwhq0brmdsqfpqcewn7</image_public_id>
+		</category>
+	
+		<category>
+			<name>NON VEG</name>
+			<description>enjoy vegetarian food</description>
+			<image_secure_url>https://res.cloudinary.com/di2fxuii1/image/upload/v1480533895/tnrmqunzdepdainq3ghp.png</image_secure_url>
+			<image_url>https://res.cloudinary.com/di2fxuii1/image/upload/v1480533895/tnrmqunzdepdainq3ghp.png</image_url>
+			<image_public_id>tnrmqunzdepdainq3ghp</image_public_id>
+		</category>
+
+		<cusine>
+			<name>Mexican</name>
+			<description>Mexican cusine is primarily a fusion of indigenous Mesoamerican cooking with European and spanish element added</description>
+			<image_secure_url>https://res.cloudinary.com/di2fxuii1/image/upload/v1480477038/j3nzrr3t7lghhpeqpsul.jpg</image_secure_url>
+			<image_url>http://res.cloudinary.com/di2fxuii1/image/upload/v1480477038/j3nzrr3t7lghhpeqpsul.jpg</image_url>
+			<image_public_id>j3nzrr3t7lghhpeqpsul</image_public_id>
+		</cusine>
+		<cusine>
+			<name>Italian</name>
+			<description>Italian cusine is characterized by its simplicity with many dishes having only four to eight ingredients with cheese and wine playing the major role</description>
+			<image_secure_url>https://res.cloudinary.com/di2fxuii1/image/upload/v1480477353/udjocu2v2uhgxi5t5cpj.jpg</image_secure_url>
+			<image_url>http://res.cloudinary.com/di2fxuii1/image/upload/v1480477353/udjocu2v2uhgxi5t5cpj.jpg</image_url>
+			<image_public_id>udjocu2v2uhgxi5t5cpj</image_public_id>
+		</cusine>
+		<cusine>
+			<name>Indian</name>
+			<description>Indian cusine reflects a 8000-year history of various groups and cultures interacting with the subcontinent leading to diversity of flavours and regional cusines found in modern-day India</description>
+			<image_secure_url>https://res.cloudinary.com/di2fxuii1/image/upload/v1480477828/xzcqfaoklnl6dq0xxvw6.jpg</image_secure_url>
+			<image_url>http://res.cloudinary.com/di2fxuii1/image/upload/v1480477828/xzcqfaoklnl6dq0xxvw6.jpg</image_url>
+			<image_public_id>xzcqfaoklnl6dq0xxvw6</image_public_id>
+		</cusine>
+		<cusine>
+			<name>Thai</name>
+			<description>Thai cusine emphasis on lightly prepared dishes with strong aromatic components and a spicy edge</description>
+			<image_secure_url>https://res.cloudinary.com/di2fxuii1/image/upload/v1480478289/aag1lampscojkrzawwfx.jpg</image_secure_url>
+			<image_url>http://res.cloudinary.com/di2fxuii1/image/upload/v1480478289/aag1lampscojkrzawwfx.jpg</image_url>
+			<image_public_id>aag1lampscojkrzawwfx</image_public_id>
+		</cusine>
+		<cusine>
+			<name>Chinese</name>
+			<description>The history of Chinese cusine in China stretches back for thousands of years and has changed from period to period and in each region according to climate, imperial fashions, and local preferences</description>
+			<image_secure_url>https://res.cloudinary.com/di2fxuii1/image/upload/v1480478472/jl1ikl184iqyv8ero2ev.jpg</image_secure_url>
+			<image_url>http://res.cloudinary.com/di2fxuii1/image/upload/v1480478472/jl1ikl184iqyv8ero2ev.jpg</image_url>
+			<image_public_id>jl1ikl184iqyv8ero2ev</image_public_id>
+		</cusine>
+		<cusine>
+			<name>Japanese</name>
+			<description>The history of Chinese cusine in China stretches back for thousands of years and has changed from period to period and in each region according to climate, imperial fashions, and local preferences</description>
+			<image_secure_url>https://res.cloudinary.com/di2fxuii1/image/upload/v1480478472/jl1ikl184iqyv8ero2ev.jpg</image_secure_url>
+			<image_url>http://res.cloudinary.com/di2fxuii1/image/upload/v1480478472/jl1ikl184iqyv8ero2ev.jpg</image_url>
+			<image_public_id>jl1ikl184iqyv8ero2ev</image_public_id>
+		</cusine>
+
+</recipe_type>
+       
