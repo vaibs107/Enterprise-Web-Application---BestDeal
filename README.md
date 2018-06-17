@@ -1,4 +1,4 @@
-# Enterprise-Web-Application---BestDeal
+# FoodQuest - Enterprise Web Application
 
 A three-tiered web application which serves as a platform for various users to buy or sell home made food within the locality. 
 Here the users are facilitated with selling their recipes, buy their favorite dishes, and also provide the feedback. 
